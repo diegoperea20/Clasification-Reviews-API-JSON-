@@ -14,7 +14,7 @@ spec:
     spec:
      containers:
      - name: myappi
-       image: diegoperea/api-reviewsJSON:latest
+       image: diegoperea/api-reviews-json:latest
        imagePullPolicy: Always
        ports:
        - containerPort: 8080
